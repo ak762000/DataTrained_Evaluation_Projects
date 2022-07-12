@@ -10,3 +10,5 @@ Data Science Projects
 4]Census Income
 
 5]Global Power Plant Database
+
+6]Loan Application Status Prediction
