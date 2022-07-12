@@ -8,3 +8,5 @@ Data Science Projects
 3]Avocado Project
 
 4]Census Income
+
+5]Global Power Plant Database
